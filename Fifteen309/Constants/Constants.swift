@@ -1,8 +1,4 @@
-//
-//  Constants.swift
-//  Fifteen309
-//  Created by brfsu on 17.01.2024.
-//
+
 import SwiftUI
 
 public enum Constants {
